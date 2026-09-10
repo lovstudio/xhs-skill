@@ -93,18 +93,15 @@ dimensions:
     evidence: Configuration is one installed CLI plus login; discovery and note reads run locally with a configurable delay.
     score: verified
 pricing:
-  model: one_time
-  currency: Credits
-  list_price_cny: 19.9
-  list_price_credits: 300
-  launch_price_credits: 300
-  price_range_credits: [300, 300]
-  delivery_mode: encrypted_bundle
-  basis: One-time encrypted delivery of the authenticated Xiaohongshu discovery, note-body collection, and source-backed report workflow; price is based on reusable research value and bounded support scope.
+  model: free_entry
+  currency: CNY
+  list_price_cny: 0
+  basis: Free public-source entry for authenticated Xiaohongshu discovery, note-body collection, and source-backed report synthesis.
   boundary: Includes exact-topic discovery, note-body collection, source-backed report synthesis, title filtering, and JSON export. Excludes account provisioning, manual research services, media downloading, publishing, official data licensing, and any guarantee that Xiaohongshu results can be redistributed.
-  review_trigger: Review after 100 redemptions, 10 real uses, a material version change, a Credits or FX rule change, or a material support-cost change.
+  review_trigger: Review when a hosted service, proprietary data, guaranteed support, or a direct paid delivery is added.
   confidence: internal
 distribution:
-  paid:
+  paid: []
+  free:
+    - github
     - lovstudio
-  free: []

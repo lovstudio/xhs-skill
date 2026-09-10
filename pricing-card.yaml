@@ -1,14 +1,10 @@
 schema: lovstudio/pricing-card/v1
 version: "0.2.0"
-model: one_time
-currency: Credits
-list_price_cny: 19.9
-list_price_credits: 300
-launch_price_credits: 300
-price_range_credits: [300, 300]
-delivery_mode: encrypted_bundle
+model: free
+currency: CNY
+list_price_cny: 0
 value_anchor: "Turn a Xiaohongshu topic from raw discovery into a source-backed, executable research report while preserving a search-only JSON path."
-basis: "One-time encrypted delivery of authenticated Xiaohongshu discovery, note-body collection, report synthesis, and search-only export; priced from reusable research value against a bounded support scope."
+basis: "Free public-source entry because the implementation wraps an existing open-source CLI and standard Python discovery, note-body collection, and local filtering; no proprietary service or recurring infrastructure is required."
 boundary: "Includes exact-topic discovery, optional title filtering, note-body collection, source-backed report synthesis, pagination, and JSON export. Excludes account provisioning, manual research services, media downloading, publishing, official data licensing, and any guarantee that Xiaohongshu results can be redistributed."
-review_trigger: "Review after 100 redemptions, 10 real uses, a material version change, a Credits or FX rule change, or a material support-cost change."
+review_trigger: "Review when a hosted service, proprietary data, guaranteed support, or a direct paid delivery is added."
 confidence: internal

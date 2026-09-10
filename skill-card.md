@@ -94,14 +94,13 @@ filtering, and the topic-to-report default behavior observed in September 2026.
 
 ## Pricing Basis
 
-One-time encrypted delivery at 300 Credits. The internal price constraint is
-¥19.9; the website displays Credits only and uses the current verified Credits
-rule. The price covers the current version, same-scope corrections, discovery,
-note-body collection, report synthesis, and search-only export; it excludes
-account provisioning, manual services, and upstream API guarantees.
+Free public-source entry. The Skill wraps an open-source CLI and local Python
+collection; it does not add proprietary services or recurring infrastructure.
+The public source covers discovery, note-body collection, report synthesis, and
+search-only export: it excludes account provisioning, manual services, and
+upstream API guarantees.
 
 ## Distribution
 
-Paid channel: LovStudio Skill Publisher. Free channels: none. Source
-preparation is complete; marketplace state must be verified separately after
-publication.
+Free channels: GitHub and LovStudio. Paid channels: none. No channel is marked
+as uploaded or published beyond the current public source and catalog entry.
