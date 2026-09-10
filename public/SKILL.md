@@ -1,7 +1,7 @@
 ---
 name: lov-xhs
 description: Default a Xiaohongshu topic request to a source-backed research report; use search-only mode only when requested. Use when the user mentions 小红书调研、攻略规划、选题研究、小红书搜索, or "search Xiaohongshu notes".
-version: 0.1.0
+version: 0.2.0
 ---
 
 # xhs (encrypted)
