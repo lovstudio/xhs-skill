@@ -1,6 +1,6 @@
 # lov-xhs
 
-![Version](https://img.shields.io/badge/version-0.2.0-CC785C)
+![Version](https://img.shields.io/badge/version-0.2.1-CC785C)
 
 把「小红书主题请求」默认整理成一份有来源、能执行的调研报告：先发现笔记，
 再读取正文，最后输出结论、方案、证据表和不确定性。只有用户明确说“只搜索 /
@@ -11,7 +11,7 @@
 如果这个 Skill 已发布到 Skills 目录：
 
 ```bash
-npx skills add lov-xhs
+npx lovstudio skills add xhs -g -y
 ```
 
 本地源码安装：
